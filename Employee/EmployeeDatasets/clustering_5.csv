@@ -1,0 +1,501 @@
+Education,JoiningYear,City,PaymentTier,Age,Gender,EverBenched,ExperienceInCurrentDomain,LeaveOrNot
+Any,"[2015,2020)",Pune,3,Any,Female,No,2,0
+Bachelors,2015,Bangalore,3,"[30,40)",Male,No,5,0
+Bachelors,"[2015,2020)",Any,3,"[25,29)",Female,No,Any,1
+Bachelors,Any,Any,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,25,Male,No,3,0
+Bachelors,"[2015,2020)",Any,3,Any,Male,No,"[0,5)",0
+Bachelors,Any,Bangalore,Any,"[25,29)",Male,No,Any,0
+Any,"[2015,2020)",New Delhi,3,Any,Female,No,"[0,5)",0
+Bachelors,"[2015,2020)",Any,3,Any,Male,No,"[0,5)",0
+Masters,2017,Bangalore,Any,"[25,29)",Male,No,Any,0
+Masters,Any,Any,Any,Any,Male,Yes,"[0,5)",0
+Bachelors,Any,Any,3,Any,Female,No,"[0,5)",1
+Masters,"[2015,2020)",New Delhi,Any,Any,Any,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,"[0,5)",0
+Bachelors,Any,Bangalore,Any,"[25,29)",Male,No,Any,0
+Masters,2017,Bangalore,Any,"[25,29)",Male,No,Any,0
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,3,0
+Bachelors,2016,Bangalore,3,"[20,30)",Male,No,2,0
+Bachelors,"[2010,2015)",Bangalore,3,Any,Female,No,"[0,5)",1
+Bachelors,"[2015,2020)",Any,3,"[25,29)",Female,No,Any,0
+Bachelors,2015,Pune,2,"[25,29)",Female,No,"[0,5)",1
+Masters,"[2010,2015)",Any,3,27,Male,Any,5,1
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Female,No,"[0,5)",1
+Bachelors,"[2015,2020)",Pune,3,"[30,40)",Male,No,"[0,5)",0
+Any,Any,Bangalore,3,Any,Any,No,Any,0
+Bachelors,Any,Any,3,Any,Female,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,26,Female,No,4,0
+Post-grad,Any,New Delhi,3,"[25,29)",Any,No,Any,0
+Bachelors,2015,Pune,2,"[25,29)",Female,No,"[0,5)",1
+Bachelors,2015,Any,3,Any,Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Any,3,Any,Male,No,"[0,5)",1
+Bachelors,2015,Pune,Any,"[25,29)",Female,Any,"[0,5)",1
+Bachelors,"[2010,2015)",Pune,2,"[25,29)",Female,No,"[0,5)",1
+Masters,"[2015,2020)",Any,2,27,Female,No,5,0
+Masters,2017,Bangalore,Any,"[25,29)",Male,No,Any,0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,Yes,"[0,5)",0
+Bachelors,2015,Bangalore,3,"[30,40)",Male,No,5,0
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,5,0
+Any,2017,New Delhi,2,27,Male,No,5,1
+Bachelors,Any,Any,3,"[30,40)",Male,No,"[0,5)",0
+Bachelors,Any,Bangalore,3,"[30,40)",Male,Yes,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,26,Female,No,4,0
+Bachelors,"[2015,2020)",Pune,2,24,Female,No,2,1
+Bachelors,Any,Bangalore,3,"[30,40)",Male,Yes,"[0,5)",0
+Bachelors,"[2015,2020)",Pune,2,24,Female,No,2,1
+Bachelors,"[2015,2020)",Any,3,"[30,40)",Any,No,Any,0
+Masters,2017,New Delhi,2,"[20,30)",Female,No,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,"[35,39)",Male,No,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,5,0
+Bachelors,2015,Pune,Any,"[25,29)",Female,Any,"[0,5)",1
+Any,Any,Any,3,"[20,30)",Male,No,Any,1
+Bachelors,"[2015,2020)",Any,3,Any,Male,No,"[0,5)",0
+Bachelors,"[2010,2015)",Any,Any,Any,Female,No,Any,0
+Masters,Any,New Delhi,3,Any,Any,No,"[0,5)",0
+Bachelors,"[2015,2020)",Pune,2,"[30,40)",Female,No,"[0,5)",1
+Bachelors,Any,Any,3,"[20,30)",Female,Any,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,"[30,40)",Any,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,26,Male,No,4,1
+Bachelors,"[2015,2020)",Bangalore,Any,24,Male,No,2,0
+Any,"[2015,2020)",Pune,3,Any,Female,No,2,0
+Bachelors,"[2015,2020)",Pune,2,Any,Female,Any,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,Any,24,Male,No,2,0
+Masters,2017,Pune,2,Any,Male,Any,Any,0
+Any,2017,New Delhi,2,27,Male,No,5,1
+Bachelors,2017,Any,2,Any,Male,No,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,Any,Female,No,"[0,5)",1
+Masters,Any,New Delhi,3,Any,Any,No,"[0,5)",0
+Masters,2017,New Delhi,2,"[20,30)",Female,No,"[0,5)",0
+Masters,2017,New Delhi,2,"[20,30)",Female,No,"[0,5)",0
+Masters,Any,New Delhi,3,Any,Any,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,5,0
+Bachelors,2017,Any,2,"[25,29)",Female,No,Any,1
+Masters,"[2010,2015)",Any,3,27,Male,Any,5,0
+Any,Any,Bangalore,3,Any,Any,No,Any,1
+Bachelors,"[2010,2015)",New Delhi,3,Any,Female,No,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Female,No,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,"[0,5)",1
+Any,Any,Any,3,"[20,30)",Male,No,Any,0
+Bachelors,"[2015,2020)",New Delhi,Any,Any,Female,No,Any,0
+Bachelors,2013,Pune,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,"[2010,2015)",Pune,2,"[25,29)",Female,No,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[20,30)",Male,No,2,0
+Bachelors,2013,Any,Any,"[30,40)",Female,No,"[0,5)",1
+Masters,Any,Any,Any,Any,Male,Yes,"[0,5)",1
+Bachelors,2017,Any,2,Any,Male,No,"[0,5)",0
+Any,Any,New Delhi,3,"[20,30)",Female,No,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,"[35,39)",Male,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[20,30)",Male,No,2,0
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,"[0,5)",0
+Bachelors,Any,Any,Any,Any,Female,No,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,26,Male,No,4,0
+Any,Any,Bangalore,3,Any,Any,No,Any,0
+Bachelors,"[2015,2020)",Pune,2,"[30,40)",Female,No,"[0,5)",1
+Bachelors,Any,Pune,3,Any,Male,No,5,0
+Bachelors,"[2015,2020)",Any,Any,"[25,29)",Any,No,3,1
+Bachelors,"[2015,2020)",Pune,2,"[30,40)",Female,No,"[0,5)",1
+Bachelors,Any,Pune,Any,Any,Any,No,Any,1
+Bachelors,2017,New Delhi,2,"[30,40)",Male,No,Any,0
+Bachelors,"[2015,2020)",Bangalore,3,26,Male,No,4,0
+Bachelors,Any,Pune,3,Any,Male,No,5,0
+Bachelors,"[2010,2015)",New Delhi,3,"[20,30)",Female,No,Any,0
+Bachelors,"[2015,2020)",Bangalore,3,Any,Male,Any,5,1
+Bachelors,"[2015,2020)",Any,3,Any,Male,No,"[0,5)",0
+Any,Any,Pune,Any,Any,Female,Any,Any,1
+Bachelors,"[2015,2020)",Any,Any,Any,Male,No,3,0
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Female,No,"[0,5)",0
+Bachelors,"[2015,2020)",Pune,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[20,30)",Male,Any,Any,0
+Bachelors,"[2015,2020)",Bangalore,Any,24,Male,No,2,0
+Bachelors,"[2015,2020)",Pune,2,24,Female,No,2,1
+Bachelors,Any,Bangalore,Any,"[25,29)",Male,No,Any,0
+Bachelors,Any,Bangalore,3,"[30,40)",Male,Yes,"[0,5)",0
+Any,"[2015,2020)",Pune,3,Any,Female,No,2,1
+Masters,2017,New Delhi,2,"[20,30)",Female,No,"[0,5)",0
+Bachelors,"[2010,2015)",New Delhi,3,"[20,30)",Female,No,Any,0
+Masters,Any,Any,Any,Any,Male,Yes,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,5,0
+Bachelors,"[2015,2020)",Pune,3,Any,Male,Any,Any,1
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,5,0
+Bachelors,"[2015,2020)",Any,3,Any,Female,Yes,"[0,5)",0
+Bachelors,Any,Any,Any,Any,Female,No,"[0,5)",1
+Masters,2017,Pune,2,Any,Male,Any,Any,0
+Bachelors,"[2015,2020)",Bangalore,3,25,Male,No,3,0
+Masters,Any,Any,3,"[25,29)",Male,No,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,3,0
+Bachelors,"[2015,2020)",Pune,3,"[25,29)",Male,No,"[0,5)",0
+Any,"[2010,2015)",Any,3,Any,Male,Any,"[0,5)",1
+Bachelors,Any,Bangalore,Any,"[30,40)",Male,No,"[0,5)",1
+Bachelors,Any,Any,3,"[20,30)",Female,Any,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,"[0,5)",0
+Masters,2017,Bangalore,Any,"[25,29)",Male,No,Any,0
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,"[0,5)",0
+Masters,"[2015,2020)",Any,Any,Any,Female,No,"[0,5)",1
+Bachelors,"[2010,2015)",New Delhi,3,Any,Female,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[20,30)",Male,No,2,0
+Any,"[2015,2020)",New Delhi,3,Any,Female,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,Any,Male,Any,5,0
+Bachelors,2013,Pune,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,"[0,5)",1
+Bachelors,"[2010,2015)",New Delhi,3,"[20,30)",Female,No,Any,0
+Any,Any,Bangalore,3,Any,Any,No,Any,0
+Bachelors,"[2010,2015)",Bangalore,3,Any,Female,No,"[0,5)",0
+Masters,"[2015,2020)",New Delhi,3,"[25,29)",Male,No,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,Any,24,Male,No,2,0
+Bachelors,"[2015,2020)",Any,3,Any,Female,Yes,"[0,5)",1
+Post-grad,Any,New Delhi,3,"[25,29)",Any,No,Any,1
+Bachelors,"[2015,2020)",Any,Any,Any,Male,No,3,0
+Bachelors,Any,Any,3,"[25,29)",Male,No,"[0,5)",0
+Any,"[2015,2020)",New Delhi,Any,Any,Female,No,Any,1
+Bachelors,"[2015,2020)",Pune,2,24,Female,No,2,1
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,Any,Any,3,"[20,30)",Female,Any,"[0,5)",1
+Bachelors,"[2010,2015)",Any,Any,Any,Female,No,Any,0
+Masters,2017,Pune,2,Any,Male,Any,Any,1
+Masters,Any,Any,3,"[25,29)",Male,No,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,"[30,40)",Any,No,"[0,5)",0
+Bachelors,Any,Any,Any,Any,Female,No,"[0,5)",0
+Bachelors,2017,Any,2,"[25,29)",Female,No,Any,0
+Bachelors,"[2010,2015)",New Delhi,3,"[20,30)",Female,No,Any,0
+Bachelors,Any,Bangalore,3,"[30,40)",Male,Yes,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,3,0
+Masters,Any,Any,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[20,30)",Male,No,2,0
+Bachelors,"[2015,2020)",Pune,3,Any,Male,Any,Any,0
+Bachelors,Any,Bangalore,Any,"[30,40)",Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,5,1
+Masters,"[2010,2015)",Any,3,27,Male,Any,5,1
+Bachelors,Any,Any,Any,"[20,30)",Any,No,Any,1
+Bachelors,Any,Any,3,Any,Female,No,"[0,5)",0
+Bachelors,2015,Any,3,Any,Male,No,"[0,5)",0
+Bachelors,"[2010,2015)",Pune,2,"[25,29)",Female,No,"[0,5)",1
+Masters,"[2015,2020)",New Delhi,3,"[25,29)",Male,No,"[0,5)",1
+Bachelors,2012,Bangalore,3,"[20,30)",Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,Any,"[25,29)",Male,No,Any,1
+Any,"[2015,2020)",New Delhi,Any,Any,Female,No,Any,0
+Any,Any,Any,3,"[30,40)",Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,Any,Male,No,5,0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,5,1
+Bachelors,"[2015,2020)",Bangalore,3,"[35,39)",Male,No,"[0,5)",0
+Bachelors,2017,Any,2,"[25,29)",Female,No,Any,0
+Bachelors,"[2015,2020)",Bangalore,Any,"[25,29)",Male,No,Any,0
+Bachelors,Any,Bangalore,Any,"[30,40)",Male,No,"[0,5)",1
+Bachelors,2013,Pune,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,2017,New Delhi,2,"[30,40)",Male,No,Any,0
+Bachelors,Any,Bangalore,Any,"[30,40)",Male,No,"[0,5)",0
+Bachelors,2013,Pune,3,"[25,29)",Male,No,"[0,5)",0
+Any,Any,Pune,Any,Any,Female,Any,Any,1
+Any,Any,Any,3,Any,Male,No,"[0,5)",0
+Any,"[2015,2020)",Bangalore,3,"[25,29)",Female,No,"[0,5)",1
+Any,Any,New Delhi,3,"[20,30)",Female,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,Any,"[25,29)",Male,No,Any,0
+Bachelors,"[2015,2020)",Bangalore,3,"[20,30)",Any,Any,"[0,5)",1
+Bachelors,"[2015,2020)",New Delhi,Any,Any,Female,No,Any,0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,Yes,"[0,5)",1
+Bachelors,"[2015,2020)",Any,3,"[30,40)",Any,No,Any,0
+Masters,"[2010,2015)",Any,3,27,Male,Any,5,1
+Bachelors,"[2015,2020)",Any,3,Any,Female,Yes,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,5,0
+Any,"[2015,2020)",New Delhi,3,"[20,30)",Any,Yes,Any,0
+Masters,"[2010,2015)",Any,3,27,Male,Any,5,0
+Bachelors,"[2015,2020)",Pune,3,"[25,29)",Male,No,"[0,5)",0
+Any,"[2015,2020)",New Delhi,3,"[20,30)",Any,Yes,Any,0
+Bachelors,Any,Any,3,Any,Any,Any,5,1
+Bachelors,Any,Any,Any,Any,Female,No,"[0,5)",1
+Bachelors,Any,Any,3,Any,Any,Any,5,0
+Bachelors,Any,Pune,Any,Any,Any,No,Any,1
+Bachelors,"[2010,2015)",Pune,3,"[20,30)",Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,"[30,40)",Any,No,"[0,5)",0
+Bachelors,"[2015,2020)",Pune,2,24,Female,No,2,1
+Any,"[2010,2015)",Any,3,Any,Male,Any,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Female,No,"[0,5)",0
+Bachelors,Any,Any,3,Any,Any,Any,5,0
+Any,Any,Any,3,Any,Male,Any,Any,0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,"[0,5)",1
+Bachelors,"[2010,2015)",Pune,2,"[25,29)",Female,No,"[0,5)",1
+Bachelors,"[2015,2020)",New Delhi,Any,Any,Female,No,Any,1
+Bachelors,"[2015,2020)",Bangalore,3,"[20,30)",Any,Any,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,Any,24,Male,No,2,0
+Any,"[2015,2020)",New Delhi,Any,Any,Female,No,Any,0
+Bachelors,"[2010,2015)",Bangalore,3,Any,Female,No,"[0,5)",0
+Bachelors,2017,New Delhi,2,"[30,40)",Male,No,Any,0
+Bachelors,"[2010,2015)",Pune,2,"[25,29)",Female,No,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,Any,1
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,Any,Pune,3,Any,Male,No,5,0
+Post-grad,Any,New Delhi,3,"[25,29)",Any,No,Any,0
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Female,No,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,5,0
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Female,No,"[0,5)",0
+Bachelors,"[2015,2020)",Any,Any,Any,Male,No,3,0
+Any,Any,Any,3,"[20,30)",Male,No,Any,0
+Bachelors,Any,Any,3,Any,Any,Any,5,0
+Masters,Any,Any,Any,Any,Male,Yes,"[0,5)",0
+Bachelors,2017,Any,2,Any,Male,No,"[0,5)",0
+Any,"[2015,2020)",Pune,3,Any,Female,No,2,1
+Bachelors,"[2010,2015)",Any,Any,Any,Female,No,Any,0
+Bachelors,"[2015,2020)",Pune,3,Any,Male,Any,Any,1
+Bachelors,"[2010,2015)",Bangalore,3,26,Female,No,4,0
+Bachelors,Any,Any,3,Any,Male,Any,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,26,Male,No,4,0
+Bachelors,Any,Any,Any,"[20,30)",Any,No,Any,0
+Bachelors,"[2015,2020)",Pune,3,"[25,29)",Male,No,"[0,5)",1
+Bachelors,Any,Any,3,"[30,40)",Male,No,"[0,5)",0
+Any,Any,Pune,Any,Any,Female,Any,Any,0
+Bachelors,Any,Any,3,"[20,30)",Female,Any,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,Any,Male,Any,5,0
+Bachelors,Any,Bangalore,3,Any,Any,No,Any,0
+Bachelors,2015,Pune,2,"[25,29)",Female,No,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,Any,0
+Any,Any,Any,3,"[30,40)",Male,No,"[0,5)",0
+Masters,Any,New Delhi,3,Any,Any,No,"[0,5)",0
+Bachelors,"[2015,2020)",Pune,3,"[25,29)",Male,No,"[0,5)",0
+Masters,"[2015,2020)",Any,2,27,Female,No,5,1
+Bachelors,2015,Bangalore,3,"[30,40)",Male,No,5,0
+Bachelors,2012,Bangalore,3,"[20,30)",Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,"[0,5)",1
+Any,Any,Any,3,Any,Male,No,"[0,5)",0
+Bachelors,"[2010,2015)",New Delhi,3,Any,Female,No,"[0,5)",1
+Bachelors,"[2015,2020)",Pune,3,Any,Male,Any,Any,0
+Any,Any,Any,3,"[30,40)",Male,No,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[20,30)",Male,Any,Any,0
+Any,Any,New Delhi,3,"[20,30)",Female,No,"[0,5)",1
+Any,"[2010,2015)",Any,3,Any,Male,Any,"[0,5)",0
+Bachelors,"[2015,2020)",Pune,3,Any,Male,Any,Any,0
+Bachelors,Any,Any,3,Any,Any,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,"[30,40)",Any,No,"[0,5)",0
+Masters,"[2015,2020)",Any,Any,Any,Female,No,"[0,5)",1
+Any,"[2015,2020)",Bangalore,3,"[25,29)",Female,No,"[0,5)",0
+Any,Any,Any,3,Any,Male,Any,Any,0
+Bachelors,2015,Pune,Any,"[25,29)",Female,Any,"[0,5)",1
+Bachelors,"[2015,2020)",Any,3,"[25,29)",Female,No,Any,1
+Bachelors,"[2015,2020)",Bangalore,3,"[20,30)",Female,No,"[0,5)",1
+Any,Any,Any,3,"[30,40)",Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,26,Male,No,4,0
+Bachelors,2015,Bangalore,3,"[30,40)",Male,No,5,0
+Any,"[2010,2015)",Any,Any,Any,Any,No,Any,0
+Bachelors,"[2015,2020)",Pune,2,Any,Female,Any,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Female,No,"[0,5)",1
+Bachelors,Any,Bangalore,Any,"[25,29)",Male,No,Any,0
+Bachelors,2012,Bangalore,3,"[20,30)",Male,No,"[0,5)",1
+Bachelors,"[2015,2020)",Any,3,Any,Female,Yes,"[0,5)",0
+Bachelors,Any,Any,3,"[30,40)",Male,No,"[0,5)",0
+Any,Any,Any,Any,Any,Any,No,"[0,5)",0
+Bachelors,2013,Any,Any,"[30,40)",Female,No,"[0,5)",0
+Bachelors,Any,Any,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,Any,Any,3,Any,Male,Any,"[0,5)",0
+Bachelors,Any,Bangalore,3,Any,Any,No,Any,0
+Bachelors,Any,Pune,Any,Any,Any,No,Any,1
+Bachelors,"[2015,2020)",Any,Any,"[25,29)",Any,No,3,0
+Bachelors,Any,Any,3,"[20,30)",Female,Any,"[0,5)",0
+Any,"[2015,2020)",New Delhi,3,"[20,30)",Any,Yes,Any,1
+Bachelors,"[2015,2020)",Bangalore,3,"[20,30)",Any,Any,"[0,5)",1
+Any,2017,New Delhi,2,27,Male,No,5,0
+Any,2017,New Delhi,2,27,Male,No,5,0
+Bachelors,"[2015,2020)",Pune,3,"[30,40)",Male,No,"[0,5)",1
+Bachelors,Any,Pune,3,Any,Male,No,5,0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,5,0
+Bachelors,Any,Pune,3,Any,Male,No,5,0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,Any,Any,3,Any,Female,No,"[0,5)",0
+Bachelors,"[2010,2015)",New Delhi,3,Any,Female,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,5,1
+Any,Any,Any,3,Any,Male,Any,Any,0
+Bachelors,Any,Bangalore,3,Any,Any,No,Any,0
+Bachelors,Any,Any,Any,"[20,30)",Any,No,Any,0
+Bachelors,2015,Any,3,Any,Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Pune,3,"[30,40)",Male,No,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,"[0,5)",1
+Bachelors,"[2015,2020)",Pune,2,"[30,40)",Female,No,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,5,0
+Bachelors,"[2015,2020)",Any,Any,Any,Male,No,3,0
+Bachelors,"[2015,2020)",Bangalore,3,Any,Male,No,5,0
+Bachelors,"[2010,2015)",Pune,3,"[20,30)",Male,No,"[0,5)",0
+Bachelors,2016,Bangalore,3,"[20,30)",Male,No,2,0
+Bachelors,2017,Any,2,Any,Male,No,"[0,5)",1
+Bachelors,"[2015,2020)",Pune,2,"[30,40)",Female,No,"[0,5)",1
+Any,Any,Any,Any,Any,Any,Any,"[0,5)",1
+Bachelors,Any,Any,3,Any,Any,Any,5,0
+Bachelors,"[2015,2020)",Pune,3,"[30,40)",Male,No,"[0,5)",0
+Masters,"[2015,2020)",Any,2,27,Female,No,5,0
+Bachelors,2013,Pune,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,Any,Bangalore,Any,"[25,29)",Male,No,Any,1
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,"[0,5)",0
+Any,Any,Any,3,Any,Male,No,"[0,5)",0
+Masters,"[2015,2020)",Any,Any,Any,Female,No,"[0,5)",0
+Bachelors,2017,Any,2,"[25,29)",Female,No,Any,0
+Any,"[2010,2015)",Any,Any,Any,Any,No,Any,0
+Any,"[2015,2020)",New Delhi,3,Any,Female,No,"[0,5)",0
+Bachelors,Any,Any,3,"[25,29)",Male,No,"[0,5)",0
+Any,2017,New Delhi,2,27,Male,No,5,1
+Masters,"[2015,2020)",Any,Any,Any,Female,No,"[0,5)",0
+Any,Any,Any,3,"[20,30)",Male,No,Any,0
+Any,Any,Any,Any,Any,Any,No,"[0,5)",0
+Masters,2017,Bangalore,Any,"[25,29)",Male,No,Any,1
+Any,"[2015,2020)",New Delhi,3,Any,Female,No,"[0,5)",1
+Bachelors,2015,Pune,2,"[25,29)",Female,No,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,"[35,39)",Male,No,"[0,5)",0
+Bachelors,2016,Bangalore,3,"[20,30)",Male,No,2,0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,"[20,30)",Female,No,"[0,5)",0
+Bachelors,"[2015,2020)",Any,3,"[30,40)",Any,No,Any,0
+Bachelors,"[2015,2020)",Any,3,Any,Female,Yes,"[0,5)",0
+Any,Any,New Delhi,3,"[20,30)",Female,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,2016,Bangalore,3,"[20,30)",Male,No,2,0
+Any,"[2015,2020)",Pune,3,Any,Female,No,2,0
+Masters,"[2015,2020)",Any,2,27,Female,No,5,0
+Bachelors,"[2015,2020)",Bangalore,3,25,Male,No,3,1
+Bachelors,"[2015,2020)",Pune,2,Any,Female,Any,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,3,0
+Bachelors,Any,Any,3,Any,Any,No,"[0,5)",0
+Bachelors,Any,Any,3,Any,Male,Any,"[0,5)",0
+Bachelors,2017,New Delhi,2,"[30,40)",Male,No,Any,0
+Masters,Any,Any,3,"[25,29)",Male,No,"[0,5)",1
+Bachelors,Any,Any,3,"[30,40)",Male,No,"[0,5)",0
+Bachelors,2015,Pune,2,"[25,29)",Female,No,"[0,5)",1
+Any,Any,Any,Any,Any,Any,No,"[0,5)",1
+Any,Any,Pune,Any,Any,Female,Any,Any,1
+Bachelors,"[2015,2020)",Bangalore,3,Any,Male,No,5,0
+Masters,Any,New Delhi,3,Any,Any,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,3,0
+Bachelors,Any,Bangalore,Any,"[30,40)",Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,Any,"[25,29)",Male,No,Any,0
+Bachelors,"[2015,2020)",Bangalore,3,"[20,30)",Female,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,Any,1
+Masters,"[2015,2020)",Any,2,27,Female,No,5,1
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,Any,1
+Bachelors,Any,Pune,Any,Any,Any,No,Any,1
+Bachelors,"[2015,2020)",Any,3,"[30,40)",Any,No,Any,1
+Bachelors,"[2010,2015)",New Delhi,3,"[20,30)",Female,No,Any,1
+Bachelors,2017,New Delhi,2,"[30,40)",Male,No,Any,0
+Bachelors,"[2010,2015)",Bangalore,3,"[20,30)",Male,Any,Any,1
+Post-grad,Any,New Delhi,3,"[25,29)",Any,No,Any,0
+Bachelors,"[2015,2020)",Any,Any,"[25,29)",Any,No,3,1
+Bachelors,2015,Pune,Any,"[25,29)",Female,Any,"[0,5)",1
+Any,Any,Any,Any,Any,Any,No,"[0,5)",1
+Bachelors,2012,Bangalore,3,"[20,30)",Male,No,"[0,5)",0
+Any,"[2015,2020)",New Delhi,Any,Any,Female,No,Any,0
+Any,Any,New Delhi,3,"[20,30)",Female,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,"[0,5)",0
+Masters,Any,Any,Any,Any,Any,Any,Any,0
+Bachelors,Any,Pune,Any,Any,Any,No,Any,0
+Post-grad,Any,New Delhi,3,"[25,29)",Any,No,Any,1
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,5,0
+Bachelors,Any,Any,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Female,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[20,30)",Male,Any,Any,1
+Bachelors,"[2015,2020)",New Delhi,Any,Any,Female,No,Any,0
+Bachelors,Any,Any,3,Any,Any,No,"[0,5)",0
+Bachelors,2015,Bangalore,3,"[30,40)",Male,No,5,0
+Any,"[2010,2015)",Any,3,Any,Male,Any,"[0,5)",0
+Any,"[2010,2015)",Any,Any,Any,Any,No,Any,0
+Bachelors,"[2010,2015)",Pune,3,"[20,30)",Male,No,"[0,5)",1
+Bachelors,Any,Any,3,Any,Male,Any,"[0,5)",0
+Masters,Any,Any,Any,Any,Any,Any,Any,1
+Masters,"[2015,2020)",New Delhi,Any,Any,Any,No,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,Any,0
+Masters,2017,Pune,2,Any,Male,Any,Any,0
+Bachelors,Any,Any,3,Any,Any,No,"[0,5)",0
+Masters,"[2015,2020)",New Delhi,3,"[25,29)",Male,No,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,Any,Male,Any,5,0
+Bachelors,"[2010,2015)",Bangalore,3,"[20,30)",Male,No,2,0
+Any,"[2015,2020)",Bangalore,3,"[25,29)",Female,No,"[0,5)",1
+Bachelors,2012,Bangalore,3,"[20,30)",Male,No,"[0,5)",1
+Any,Any,Bangalore,3,Any,Any,No,Any,1
+Any,"[2015,2020)",New Delhi,3,"[20,30)",Any,Yes,Any,1
+Masters,Any,Any,3,"[25,29)",Male,No,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,"[35,39)",Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Pune,2,Any,Female,Any,"[0,5)",1
+Any,"[2015,2020)",New Delhi,Any,Any,Female,No,Any,1
+Bachelors,"[2015,2020)",Bangalore,3,Any,Male,No,5,0
+Bachelors,"[2010,2015)",Bangalore,3,"[20,30)",Male,Any,Any,1
+Bachelors,"[2010,2015)",Bangalore,3,26,Female,No,4,0
+Bachelors,Any,Any,Any,Any,Female,No,"[0,5)",1
+Bachelors,Any,Any,3,Any,Any,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,Yes,"[0,5)",1
+Bachelors,"[2010,2015)",Any,Any,Any,Female,No,Any,0
+Masters,2017,New Delhi,2,"[20,30)",Female,No,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,"[20,30)",Any,Any,"[0,5)",0
+Bachelors,Any,Any,3,Any,Male,Any,"[0,5)",0
+Masters,Any,Any,Any,Any,Any,Any,Any,0
+Any,Any,Pune,Any,Any,Female,Any,Any,1
+Any,Any,Any,3,Any,Male,Any,Any,0
+Masters,Any,Any,Any,Any,Any,Any,Any,1
+Bachelors,2013,Any,Any,"[30,40)",Female,No,"[0,5)",0
+Masters,2017,Pune,2,Any,Male,Any,Any,1
+Bachelors,"[2015,2020)",Pune,2,Any,Female,Any,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,25,Male,No,3,0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,Yes,"[0,5)",0
+Any,Any,Any,3,Any,Male,No,"[0,5)",1
+Masters,"[2015,2020)",New Delhi,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Female,No,"[0,5)",0
+Masters,"[2015,2020)",New Delhi,3,"[25,29)",Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,"[20,30)",Female,No,"[0,5)",0
+Any,Any,Any,3,Any,Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Any,3,"[25,29)",Female,No,Any,1
+Any,Any,Any,Any,Any,Any,Any,"[0,5)",1
+Bachelors,"[2010,2015)",Pune,3,"[20,30)",Male,No,"[0,5)",0
+Bachelors,Any,Bangalore,3,Any,Any,No,Any,0
+Bachelors,2015,Any,3,Any,Male,No,"[0,5)",0
+Any,"[2015,2020)",Bangalore,3,"[25,29)",Female,No,"[0,5)",1
+Bachelors,"[2015,2020)",Any,Any,"[25,29)",Any,No,3,0
+Bachelors,"[2015,2020)",Pune,3,"[30,40)",Male,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,Any,Male,No,5,1
+Bachelors,Any,Bangalore,3,"[30,40)",Male,Yes,"[0,5)",0
+Any,Any,Any,Any,Any,Any,Any,"[0,5)",1
+Masters,Any,Any,Any,Any,Any,Any,Any,1
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Female,No,"[0,5)",0
+Any,Any,Any,Any,Any,Any,Any,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,25,Male,No,3,0
+Bachelors,"[2015,2020)",Bangalore,3,"[20,30)",Any,Any,"[0,5)",0
+Bachelors,"[2015,2020)",Any,3,"[25,29)",Female,No,Any,1
+Bachelors,Any,Any,Any,"[20,30)",Any,No,Any,0
+Bachelors,2016,Bangalore,3,"[20,30)",Male,No,2,0
+Masters,"[2015,2020)",Any,Any,Any,Female,No,"[0,5)",1
+Bachelors,"[2015,2020)",Any,Any,Any,Male,No,3,1
+Bachelors,"[2010,2015)",Bangalore,3,Any,Female,No,"[0,5)",0
+Bachelors,2013,Any,Any,"[30,40)",Female,No,"[0,5)",1
+Any,"[2015,2020)",New Delhi,3,"[20,30)",Any,Yes,Any,1
+Any,"[2010,2015)",Any,Any,Any,Any,No,Any,0
+Bachelors,"[2010,2015)",Pune,3,"[20,30)",Male,No,"[0,5)",0
+Bachelors,"[2010,2015)",Any,Any,Any,Female,No,Any,0
+Any,"[2010,2015)",Any,Any,Any,Any,No,Any,0
+Bachelors,"[2015,2020)",Any,3,"[30,40)",Any,No,Any,1
+Bachelors,Any,Any,3,Any,Female,No,"[0,5)",0
+Bachelors,Any,Any,Any,"[20,30)",Any,No,Any,0
+Any,Any,Any,Any,Any,Any,Any,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,No,"[0,5)",1
+Bachelors,"[2015,2020)",New Delhi,Any,Any,Female,No,Any,0
+Bachelors,"[2015,2020)",Bangalore,3,Any,Male,Any,5,1
+Bachelors,Any,Bangalore,3,Any,Any,No,Any,0
+Bachelors,2013,Any,Any,"[30,40)",Female,No,"[0,5)",1
+Bachelors,"[2015,2020)",Bangalore,3,"[20,30)",Female,No,"[0,5)",0
+Bachelors,"[2010,2015)",New Delhi,3,Any,Female,No,"[0,5)",0
+Any,Any,Any,3,"[30,40)",Male,No,"[0,5)",1
+Masters,"[2015,2020)",New Delhi,Any,Any,Any,No,"[0,5)",0
+Bachelors,"[2015,2020)",Bangalore,Any,"[25,29)",Male,No,Any,0
+Bachelors,2017,Any,2,Any,Male,No,"[0,5)",1
+Any,Any,Any,3,Any,Male,Any,Any,0
+Bachelors,"[2015,2020)",Bangalore,3,"[25,29)",Male,Yes,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[30,40)",Male,No,5,0
+Any,"[2010,2015)",Any,3,Any,Male,Any,"[0,5)",0
+Bachelors,"[2010,2015)",Bangalore,3,26,Female,No,4,0
+Bachelors,"[2015,2020)",Bangalore,3,"[30,40)",Any,No,"[0,5)",0
+Bachelors,2015,Any,3,Any,Male,No,"[0,5)",0
+Masters,"[2015,2020)",New Delhi,Any,Any,Any,No,"[0,5)",0
+Bachelors,2017,Any,2,"[25,29)",Female,No,Any,1
+Masters,"[2015,2020)",New Delhi,Any,Any,Any,No,"[0,5)",0
+Any,Any,Any,3,"[20,30)",Male,No,Any,0
+Any,"[2015,2020)",Bangalore,3,"[25,29)",Female,No,"[0,5)",0
+Bachelors,2015,Pune,Any,"[25,29)",Female,Any,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,"[0,5)",0
+Any,"[2015,2020)",New Delhi,3,Any,Female,No,"[0,5)",1
+Bachelors,Any,Any,3,"[30,40)",Male,No,"[0,5)",1
+Any,Any,Any,Any,Any,Any,No,"[0,5)",1
+Masters,Any,Any,Any,Any,Male,Yes,"[0,5)",1
+Bachelors,"[2010,2015)",Bangalore,3,"[25,29)",Male,No,5,0
+Bachelors,"[2015,2020)",Any,Any,"[25,29)",Any,No,3,0
